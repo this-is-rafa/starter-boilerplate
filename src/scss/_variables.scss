@@ -1,0 +1,14 @@
+$breakpoints: (
+  "phone":        320px,
+  "tablet":       768px,
+  "tablet-wide":  1024px,
+  "desktop":      1200px,
+  "desktop-md":   1440px,
+  "desktop-lg":   1600px,
+  "desktop-xl":   1920px,
+);
+
+$z-index: (
+  "audio-player": 10,
+  "ap-progress-bar__dot": 15
+);
